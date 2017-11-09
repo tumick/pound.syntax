@@ -1,0 +1,64 @@
+context default brightcyan
+    keyword '*' green
+    keyword "*" green
+    keyword whole User		yellow base bold
+    keyword whole Group		yellow base bold
+    keyword whole RootJail	yellow base bold
+    keyword whole Daemon	yellow base bold
+    keyword whole Threads	yellow base bold
+    keyword whole LogFacility	yellow base bold
+    keyword whole LogLevel	yellow base bold
+    keyword whole IgnoreCase	yellow base bold
+    keyword whole DynScale	yellow base bold
+    keyword whole Alive		yellow base bold
+    keyword whole Client	yellow base bold
+    keyword whole TimeOut	yellow base bold
+    keyword whole ConnTO	yellow base bold
+    keyword whole Grace		yellow base bold
+    keyword whole SSLEngine	yellow base bold
+    keyword whole Control	yellow base bold
+    keyword whole Include	yellow base bold
+
+    keyword whole ListenHTTP	brightred base bold
+    keyword whole ListenHTTPS	brightred base bold
+    keyword whole Service	brightred base bold
+    keyword whole BackEnd	brightred base bold
+    keyword whole Emergency	brightred base bold
+    keyword whole Session	brightred base bold
+    keyword whole End		brightred base bold
+
+    keyword whole Address	yellow base bold
+    keyword whole Port		yellow base bold
+    keyword whole xHTTP		yellow base bold
+    keyword whole CheckURL	yellow base bold
+    keyword whole Err414	yellow base bold
+    keyword whole Err500	yellow base bold
+    keyword whole Err501	yellow base bold
+    keyword whole Err503	yellow base bold
+    keyword whole MaxRequest	yellow base bold
+    keyword whole HeadRemove	yellow base bold
+    keyword whole AddHeader	yellow base bold
+    keyword whole RewriteLocation	yellow base bold
+    keyword whole RewriteDestination	yellow base bold
+    keyword whole Cert		yellow base bold
+    keyword whole ClientCert	yellow base bold
+    keyword whole Ciphers	yellow base bold
+    keyword whole CAlist	yellow base bold
+    keyword whole VerifyList	yellow base bold
+    keyword whole CRLlist	yellow base bold
+    keyword whole NoHTTPS11	yellow base bold
+
+    keyword whole URL		yellow base bold
+    keyword whole HeadRequire	yellow base bold
+    keyword whole HeadDeny	yellow base bold
+    keyword whole Disabled	yellow base bold
+    keyword whole Redirect	yellow base bold
+
+    keyword whole HTTPS		yellow base bold
+    keyword whole Priority	yellow base bold
+    keyword whole HAport	yellow base bold
+    keyword whole Type	yellow base bold
+    keyword whole TTL	yellow base bold
+    keyword whole ID	yellow base bold
+
+context # \n gray
