@@ -2,7 +2,7 @@
 
 Syntax hightlight for mcedit (Midnight Commander built-in file editor) for [Pound] configuration file (pound.cfg)
 
-To add syntax hightlighting for the *Pound* config file (usually located at `/etc/pound/pound.cfg`) do the followwing:
+To add syntax hightlighting for the *Pound* config file (usually located at `/etc/pound/pound.cfg`) do the following:
 
 1) Edit the file `/usr/share/mc/syntax/Syntax` adding to it this two lines:
 
