@@ -17,4 +17,4 @@ That's all!
 Enjoy :)
 
 [Pound]: http://www.apsis.ch/pound/
-[Download]: https://raw.githubusercontent.com/tumick/pound.syntax/master/README.md
+[Download]: https://raw.githubusercontent.com/tumick/pound.syntax/master/pound.syntax
